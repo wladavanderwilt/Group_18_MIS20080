@@ -3,4 +3,4 @@ GitHub username: wladavanderwilt
 Name: Marc Kleinemas
 GitHub username: M333-UCD
 Name: Bence Harsányi
-GitHub username: 
+GitHub username: benceharsanyi-sudo
